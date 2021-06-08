@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## User Story
-You want to keep track of your finances online, entering income and expensed. You also are able to log financial transactions when you are offline. The application will update the online records as soon as you are back online.
+You want to keep track of your finances online, entering income and expenses. You also are able to log financial transactions when you are offline. The application will update the online records as soon as you are back online.
 
 ## Technology
 - HTML
